@@ -1,2 +1,2 @@
-# Data747Student
+# Data747
 Submissions for Data747 course
